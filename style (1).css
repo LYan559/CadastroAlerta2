@@ -1,0 +1,61 @@
+.divCadastros {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 800px;
+    color: rgb(0, 0, 0);
+}
+
+.cadastroT {
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    border: solid 4px black;
+}
+
+.cadastroNS {
+    margin-top: -15px;
+    background-color: white;
+    border: solid 5px black;
+}
+
+input {
+    height: 15px;
+    border: solid 2px;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    height: 25px;
+    width: 100px;
+    border: solid 2px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+.botao {
+    margin-top: -100px;
+    margin-left: -10px;
+}
+
+.corinthias {
+    height: 60px;
+    width: 60px;
+    margin-left: -1630px;
+    margin-top: -15px;
+}
+
+.imagemFundo {
+    background-repeat: no-repeat; 
+    background-size: cover;      
+    background-position: center;
+}
+
